@@ -1,0 +1,31 @@
+body {
+	background: #EEE8AA;
+}
+h1 {
+	font-family: fantasy;
+	font-style: oblique;
+	text-align: center;
+	text-decoration: blink;
+	text-shadow: 8px black;
+	font-size: 100px;
+	color: #A52A2A;
+	text-transform: uppercase;
+}
+h2{
+	font-family: fantasy;
+	font-style: oblique;
+	text-decoration: blink;
+	font-size: 60px
+
+}
+h3 {
+	font-family: fantasy;
+	font-size: 25px;
+	color: #556B2F;
+	text-decoration: underline;
+}
+p {
+	font-family: sans-serif;
+	font-style: italic;
+	font-weight: bold;
+}
